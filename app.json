@@ -1,7 +1,7 @@
 {
-    "name": "ғᴀʟʟᴇɴ ダ ᴍᴜsɪᴄ",
-    "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/6f99c49bdb4679acad717.jpg",
+    "name": "࿏ 𝐍𝐌𝐁 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 ࿏",
+    "description": "𝐍𝐌𝐁 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓, written in Python with Pyrogram and Py-Tgcalls.",
+    "logo": "https://graph.org/file/de126268f8cef53390434.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -12,23 +12,23 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "Get this value from",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "Get this value from ",
         "value": "",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "A token ",
         "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "1356469075",
+        "value": "",
         "required": true
       },
       "SESSION": {
@@ -37,13 +37,13 @@
         "required": true
       },
       "SUDO_USERS": {
-        "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
+        "description": "The user id with a space.",
         "value": "",
         "required": true
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/DevilsHeavenMF",
+        "value": "https://t.me/stripe_xD",
         "required": false
       }
     },
